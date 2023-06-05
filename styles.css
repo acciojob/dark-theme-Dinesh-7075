@@ -2,10 +2,11 @@
   height:90vh;
 	text-align:center;
 }
+
 .night{
   background-color: black;
   color:white;
-}
+} 
 
 .day{
   background-color: white;
