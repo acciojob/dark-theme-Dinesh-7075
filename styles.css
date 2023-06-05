@@ -3,7 +3,7 @@
 	text-align:center;
 }
 
-.night{
+.day{
   background-color: black;
   color:white;
 } 
@@ -21,7 +21,7 @@
 	color:cyan;
 }
 
-.button_night{
+.button_day{
   background-color:blue;
   color:white; 
 }
