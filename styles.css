@@ -1,5 +1,10 @@
 #app{
   height:90vh;
+	text-align:center;
+}
+.day{
+  background-color: white;
+  color:black;
 }
 .night{
   background-color: black;
@@ -8,6 +13,9 @@
 
 #swap{
   outline:0;
+}
+#ptag {
+	color:cyan;
 }
 
 .button_night{
