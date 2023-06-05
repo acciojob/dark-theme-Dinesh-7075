@@ -3,15 +3,15 @@
 	text-align:center;
 }
 
-.night{
+.day{
   background-color: black;
   color:white;
 } 
 
-.day{
+/* .day{
   background-color: white;
   color:black;
-}
+} */
 
 
 #swap{
